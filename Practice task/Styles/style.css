@@ -1,0 +1,71 @@
+.next {
+    border-radius: 0px 40px 10px 40px ;
+    background-color: bisque;
+    text-align: center;
+    /* color: brown; */
+}
+.nexttt {
+    display: hidden;
+}
+
+.one {
+    border: 10px solid green;
+    background-image: url(./me.jpg);
+    padding: 10px;
+    border-radius: 10px 10px 40px 50px;
+    box-shadow:10px 5px 10px green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.pp {
+    border: 10px solid ;
+    border-radius: 0px 10px 20px 40px;
+    background-color: bisque;
+    text-align: center;
+    box-shadow: 10px 5px 10px;
+    padding: 10px;
+    font-size: larger;
+    /* margin: 8%; */
+}
+
+#cut {
+    text-decoration: line-through;
+    border-bottom: 10px;
+    
+}
+
+#totam {
+    border: 4px dotted;
+    display: block;
+}
+#nextt {
+    
+    color: antiquewhite;
+    box-shadow: 5px green;
+}
+.task2{
+    color: rgb(78, 2, 129);
+    text-align: center;
+    /* font-size: ; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    /* font: inherit; */
+    /* text-align: just; */
+}
+.oll {
+    text-align: center;
+    list-style-type: none;
+    color: blanchedalmond;
+}
+
+/* button {
+    position: absolute;
+    top: 50%;
+} */
+#quae {
+    display: inline-block;
+     height: 200px;
+    /* border: 5px;
+    text-decoration: dotted; */
+} */

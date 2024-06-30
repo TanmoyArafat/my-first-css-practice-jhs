@@ -1,0 +1,34 @@
+Css Types Challenge:
+Practice task 1
+css type challenge
+* Create an HTML document with three paragraphs.
+* Apply css styles to each paragraph using inline, internal and external styles.
+
+Practice task 2
+text styling challenge
+* Design a webpage with a heading, paragraphs and a list.
+* Apply css styles to change the text color, alignment, font size, font family and font style for different elements.
+
+Practice task 3
+Background styling challenge
+- Create an html document with various elements, including heading, paragraphs, and divs.
+- use different css selectors (id, class, universal tag) to apply unique styles to specific elements.
+- Design a webpage with multiple sections/divs.
+-Apply css styles to set different background colors, images, repeats, positions, and sizes of each section.
+
+Practice task 5 
+Borders challenge :
+- Create a webpage with various elements, such as divs, paragraphs, and images.
+- apply css styles to add borders with different widths, colors, border-radius, and box shadow effects to the elements.
+
+Practice task 6
+Display challenge :
+
+- Build a webpage with different elements (images, headings, p, buttorns).
+- Apply css styles to set the display property to  none, hidden, inline, block, and inline-block for specific elements.
+
+
+
+
+
+

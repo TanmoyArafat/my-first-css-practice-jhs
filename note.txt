@@ -1,0 +1,49 @@
+Module 1: Learn & Explore CSS
+** Video - 1-2
+p, b, strong, i, em,
+strong & em is semantic tag. Semantic means meaningful. 
+
+** Video - 1-3
+h1 - h6, small
+small, strong, em are inline elements. Inline means in a line, this type of tag not brake any line. Like block tags. Such as - heading tags, p tag.
+
+** Video - 1-4
+ol, ul, div, br, btn, 
+Container tag - this type of tags contain other tag. Like - ol & ul contain li 
+
+** Video - 1-5
+a,
+plain tags - p, h, strong   
+container tags - ol, ul, div
+attribute - href
+
+** Video - 1-6
+img,
+void tags or self closing tags - img, br
+void tag - only <img>
+Self Closing tag - <img />
+
+** Video - 1-7
+fav, footer
+
+
+Module 2:Learn & Explore CSS
+** Video - 2-1
+Total 3 type css, 
+1. Inline css - with this type of css, I will use css on html tags.
+2. Internal css or Embedded Css - with this type of css, I will use it on head section.
+3. External css - using and External css file.
+** Video - 2.3
+Id for one by one, for id selector only 1 will have id, no other.
+Class for grouping
+Inline for inline.
+** Video-2.4
+multiple class - In 1 elements also use multiple class. like : <h1 class="bangla bangladesh">
+attribute selector - like : input [type="password"] { 
+    color: red;
+}
+for bold average - 700
+** video-2.5
+if i use 2 on margin, then 1st one will goes top and bottom and 2nd left and right.
+** video-2.6
+pedding 
